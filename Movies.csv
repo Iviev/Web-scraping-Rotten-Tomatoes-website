@@ -1,0 +1,101 @@
+Movie, MovieId, Genre, Rating, MovieLength, Director, ReleaseYear, Studio, Reviews
+Get Out, 1001, Comedy, R, 104, Jordan Peele, 2017, Universal-Pictures, 305
+The Cabinet of Dr. Caligari (Das Cabinet des Dr. Caligari), 1002, ArtHouse&International, NR, 52, Robert Wiene, 1920, Rialto-Pictures, 50
+Psycho, 1003, Classics, R, 109, Alfred Hitchcock, 1960, Paramount-Pictures, 86
+Nosferatu, 1004, ArtHouse&International, NR, 63, F.W. Murnau, 1922, Film-Arts-Guild, 62
+King Kong, 1005, Action&Adventure, NR, 103, Ernest B. Schoedsack, 1933, RKO-Pictures, 56
+Repulsion, 1006, Classics, NR, 104, Roman Polanski, 1965, Royal-Films-International, 60
+The Bride of Frankenstein, 1007, Classics, NR, 75, James Whale, 1935, NCM, 42
+The Babadook, 1008, Drama, NR, 94, Jennifer Kent, 2014, IFC-Films, 219
+Rosemary's Baby, 1009, Classics, R, 136, Roman Polanski, 1968, Paramount-Pictures, 69
+Frankenstein, 1010, Classics, NR, 70, James Whale, 1931, Universal-Pictures-Company, 45
+It Follows, 1011, Horror, R, 94, David Robert Mitchell, 2015, Radius-TWC, 234
+Let the Right One In, 1012, ArtHouse&International, R, 114, Tomas Alfredson, 2008, Magnet/Magnolia-Pictures, 183
+Aliens, 1013, Action&Adventure, R, 138, James Cameron, 1986, 20th-Century-Fox-Film-Corporat, 65
+Freaks, 1014, Classics, NR, 64, Tod Browning, 1932, MGM, 53
+Night of the Living Dead, 1015, Classics, R, 90, George A. Romero, 1968, Continental-Distributing-Inc., 59
+Eyes Without a Face, 1016, ArtHouse&International, NR, 84, Georges Franju, 1962, Criterion-Collection, 52
+Pan's Labyrinth, 1017, Drama, R, 115, Guillermo del Toro, 2006, Picturehouse, 229
+Evil Dead 2: Dead by Dawn, 1018, Horror, R, 84, Sam Raimi, 1987, Rosebud-Communications-Releasing, 55
+The Witch, 1019, Horror, R, 92, Robert Eggers, 2016, A24-Films, 291
+The Birds, 1020, Classics, PG-13, 119, Alfred Hitchcock, 1963, Universal-Pictures, 52
+Gojira, 1021, Action&Adventure, NR, 98, Ishir Honda, 1956, Rialto-Pictures, 70
+The Silence of the Lambs, 1022, Horror, R, 118, Jonathan Demme, 1991, Orion-Pictures-Corporation, 84
+The Cabin in the Woods, 1023, Horror, R, 95, Drew Goddard, 2012, Lionsgate-Films, 264
+Don't Look Now, 1024, Classics, R, 110, Nicolas Roeg, 1973, Paramount-Pictures, 51
+The Vanishing (Spoorloos), 1025, ArtHouse&International, R, 120, George Sluizer, 1988, 20th-Century-Fox, 44
+The Innocents, 1026, Horror, NR, 100, Jack Clayton, 1961, Fox, 47
+A Girl Walks Home Alone at Night, 1027, Horror, NR, 104, Ana Lily Amirpour, 2014, Vice-Films, 116
+Drag Me to Hell, 1028, Horror, PG-13, 99, Sam Raimi, 2009, Universal-Pictures, 259
+The Evil Dead, 1029, Horror, R, 85, Sam Raimi, 1981, New-Line-Cinema, 56
+Carrie, 1030, Horror, R, 98, Brian DePalma, 1976, United-Artists, 60
+Invasion of the Body Snatchers, 1031, Horror, PG, 115, Philip Kaufman, 1978, MGM-Home-Entertainment, 52
+The Loved Ones, 1032, ArtHouse&International, R, 84, Sean Byrne, 2012, Independent-Pictures, 55
+Young Frankenstein, 1033, Classics, PG, 108, Mel Brooks, 1974, 20th-Century-Fox, 56
+Halloween, 1034, Horror, PG, 93, John Carpenter, 1978, Compass-International-Pictures, 55
+Nosferatu: Phantom der Nacht (Nosferatu the Vampyre), 1035, ArtHouse&International, PG, 107, Werner Herzog, 1979, 20th-Century-Fox, 51
+Room 237, 1036, Documentary, NR, 102, Rodney Ascher, 2013, IFC-Films, 126
+Re-Animator, 1037, Comedy, NR, 86, Stuart Gordon, 1985, Empire-Pictures, 52
+Train to Busan (Busanhaeng), 1038, Action&Adventure, NR, 118, Sang-ho Yeon, 2016, Redpeter-Film, 87
+A Nightmare on Elm Street, 1039, Horror, R, 91, Wes Craven, 1984, New-Line-Cinema, 48
+The Host, 1040, Action&Adventure, R, 119, Bong Joon Ho, 2007, Magnolia-Pictures, 150
+Shaun of the Dead, 1041, Action&Adventure, R, 97, Edgar Wright, 2004, Focus-Features, 204
+Dracula, 1042, Classics, NR, 75, Tod Browning, 1931, Universal-Pictures, 46
+Zombieland, 1043, Comedy, R, 88, Ruben Fleischer, 2009, Sony/Columbia-Pictures, 242
+It Comes At Night, 1044, Drama, R, 91, Trey Edward Shults, 2017, A24, 212
+What Ever Happened to Baby Jane?, 1045, Classics, NR, 132, Robert Aldrich, 1962, Warner-Bros.-Pictures, 50
+Suspiria, 1046, Drama, NR, 97, Dario Argento, 1977, International-Classics-Inc., 48
+Eraserhead, 1047, Drama, NR, 89, David Lynch, 1977, Libra-Films, 56
+The Fly, 1048, Drama, NR, 96, David Cronenberg, 1986, Fox, 57
+Dawn of the Dead, 1049, Action&Adventure, R, 126, George A. Romero, 1979, United-Film-Distribution-Compa, 40
+Phantom Of The Opera, 1050, Classics, NR, 79, Lon Chaney Jr, 1925, Universal-Pictures, 45
+We Are Still Here, 1051, Horror, NR, 84, Ted Geoghegan, 2015, Dark-Sky-Films, 43
+Don't Breathe, 1052, Horror, R, 88, Fede Alvarez, 2016, Ghost-House-Pictures, 200
+The Wicker Man, 1053, Classics, R, 88, Robin Hardy, 1973, LionsGate-Entertainment, 48
+Little Shop of Horrors, 1054, Comedy, PG-13, 94, Frank Oz, 1986, Warner-Bros.-Pictures, 51
+The Texas Chainsaw Massacre, 1055, Classics, R, 83, Tobe Hooper, 1974, Bryanston-Pictures, 58
+Frankenweenie, 1056, Animation, PG, 90, Tim Burton, 2012, Walt-Disney-Pictures, 205
+The Blair Witch Project, 1057, Horror, R, 84, Eduardo Sánchez, 1999, Artisan-Pictures, 154
+The Shining, 1058, Drama, R, 145, Stanley Kubrick, 1980, Warner-Bros.-Pictures, 70
+The Exorcist, 1059, Classics, R, 122, William Friedkin, 1973, Warner-Bros.-Pictures, 71
+An American Werewolf in London, 1060, Comedy, R, 97, John Landis, 1981, Universal-Pictures, 48
+The Dead Zone, 1061, Horror, R, 103, David Cronenberg, 1983, Paramount-Pictures, 41
+The Conjuring, 1062, Horror, R, 112, James Wan, 2013, Warner-Bros.-Pictures, 204
+Misery, 1063, Drama, R, 107, Rob Reiner, 1990, Columbia-Pictures, 63
+Let Me In, 1064, Drama, R, 116, Matt Reeves, 2010, Overture-Films, 223
+Cronos, 1065, ArtHouse&International, R, 96, Guillermo del Toro, 1994, Trimark, 49
+Gerald's Game, 1066, Drama, NR, 103, Mike Flanagan, 2017, Netflix, 56
+Bone Tomahawk, 1067, Action&Adventure, NR, 133, S. Craig Zahler, 2015, Image-Entertainment, 83
+The Orphanage, 1068, Drama, R, 105, J.A. Bayona, 2007, Picturehouse, 176
+28 Days Later, 1069, Horror, R, 108, Danny Boyle, 2003, Fox-Searchlight-Pictures, 222
+Near Dark, 1070, Horror, R, 95, Kathryn Bigelow, 1987, Lions-Gate-Films, 48
+Henry: Portrait of a Serial Killer, 1071, Drama, NC17, 90, John McNaughton, 1986, GreyCat-Films, 59
+Russian Ark, 1072, ArtHouse&International, NC17, 95, Alexandr Sokurov, 2002, Wellspring-Media, 103
+Poltergeist, 1073, Horror, PG, 114, Tobe Hooper, 1982, MGM-Home-Entertainment, 57
+Donnie Darko: The Director's Cut, 1074, Drama, R, 133, Tobe Hooper, 2004, Newmarket-Films, 43
+The Devil's Candy, 1075, Drama, NR, 80, Sean Byrne, 2017, IFC-Midnight, 42
+Chronicle, 1076, ArtHouse&International, PG-13, 83, Josh Trank, 2012, 20th-Century-Fox, 171
+Goodnight Mommy (Ich seh, 1077, Drama, R, 99, Veronika Franz, 2015, Radius-TWC, 134
+The Descent, 1078, Horror, R, 99, Neil Marshall, 2006, Lionsgate, 173
+The Omen, 1079, Classics, R, 111, Richard Donner, 1976, 20th-Century-Fox, 43
+Slither, 1080, Comedy, R, 96, James Gunn (II), 2006, Universal-Pictures, 137
+Ginger Snaps, 1081, Horror, R, 108, John Fawcett, 2001, DEJ-Productions, 56
+This Is the End, 1082, Action&Adventure, R, 107, Seth Rogen, 2013, Sony-Pictures, 217
+Altered States, 1083, Drama, R, 102, Ken Russell, 1980, Warner-Home-Video, 43
+A Field in England, 1084, Drama, NR, 90, Ben Wheatley, 2014, Drafthouse-Films, 67
+Spring, 1085, Horror, NR, 109, Aaron Moorhead, 2015, Drafthouse-Films, 49
+The Autopsy of Jane Doe, 1086, ArtHouse&International, R, 99, André Ovredal, 2016, IFC-Films, 94
+Gremlins, 1087, Comedy, PG, 120, Joe Dante, 1984, Warner-Bros.-Pictures, 62
+Backcountry, 1088, Drama, R, 92, Adam MacDonald, 2015, IFC-Films, 43
+Paranormal Activity, 1089, Horror, R, 86, Oren Peli, 2009, Paramount-Pictures, 194
+The Thing, 1090, Horror, R, 109, John Carpenter, 1982, Universal-Pictures, 59
+We Are What We Are, 1091, Drama, R, 100, Jim Mickle, 2013, Entertainment-One, 84
+The House of the Devil, 1092, Horror, R, 93, Ti West, 2009, Magnolia-Pictures, 95
+Save the Green Planet, 1093, ArtHouse&International, NR, 116, Jang Jun-Hwan, 2004, Koch-Lorber-Films, 40
+Dracula: Pages From a Virgin's Diary, 1094, Drama, NR, 75, Guy Maddin, 2003, Zeitgeist-Film, 62
+Dressed to Kill, 1095, Drama, NR, 105, Brian DePalma, 1980, MGM, 43
+The Others, 1096, Horror, PG-13, 105, Alejandro Amenábar, 2001, Miramax-Films, 151
+Santa Sangre, 1097, ArtHouse&International, PG-13, 123, Alejandro Jodorowsky, 1989, Republic-Pictures-Home-Video, 40
+The Conjuring 2, 1098, Horror, R, 133, James Wan, 2016, Warner-Bros.-Pictures, 226
+Willow Creek, 1099, Horror, NR, 80, Bobcat Goldthwait, 2014, MPI-Media-Group, 51
+Split, 1100, Drama, PG-13, 116, M. Night Shyamalan, 2017, Universal-Pictures, 254
